@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Rahim Uddin",
+        "age": 29,
+        "email": "rahim.uddin@example.com",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Salma Akter",
+        "age": 34,
+        "email": "salma.akter@example.com",
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "name": "Karim Ahmed",
+        "age": 42,
+        "email": "karim.ahmed@example.com",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "name": "Rokeya Begum",
+        "age": 22,
+        "email": "rokeya.begum@example.com",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "name": "Jamal Hossain",
+        "age": 27,
+        "email": "jamal.hossain@example.com",
+        "isActive": false
+    },
+    {
+        "id": 6,
+        "name": "Amina Khatun",
+        "age": 31,
+        "email": "amina.khatun@example.com",
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "name": "Hasan Ali",
+        "age": 25,
+        "email": "hasan.ali@example.com",
+        "isActive": false
+    },
+    {
+        "id": 8,
+        "name": "Mariam Akter",
+        "age": 38,
+        "email": "mariam.akter@example.com",
+        "isActive": true
+    },
+    {
+        "id": 9,
+        "name": "Abdul Kader",
+        "age": 45,
+        "email": "abdul.kader@example.com",
+        "isActive": false
+    },
+    {
+        "id": 10,
+        "name": "Fatema Jahan",
+        "age": 29,
+        "email": "fatema.jahan@example.com",
+        "isActive": true
+    }
+]
